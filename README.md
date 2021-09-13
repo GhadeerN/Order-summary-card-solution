@@ -50,7 +50,7 @@ The users should be able to:
 
 ### 🔗 Links
 
-- [Githube Repository]()
+- [Githube Repository](https://github.com/GhadeerN/Order-summary-card-solution.git)
 - [The Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-qVRVKzh4m)
 - [Live Site URL](https://ghadeern.github.io/Order-summary-card-solution/)
 
