@@ -2,7 +2,8 @@
 body {
   background: url("../images/pattern-background-desktop.svg") no-repeat,
     hsl(225, 100%, 94%);
-  background-position-y: -55px;
+  background-position: center top;
+  background-size: contain;
   font-family: "Red Hat Display", sans-serif;
 }
 .container {
