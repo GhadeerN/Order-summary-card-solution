@@ -63,6 +63,12 @@ body {
   margin: 9px 0;
   margin-left: -80px;
 }
+.plan-type {
+  font-weight: 900;
+}
+.price {
+  color: hsl(224, 23%, 55%);
+}
 .col2 p {
   line-height: 15px;
 }
