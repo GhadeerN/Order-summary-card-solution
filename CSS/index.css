@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+body {
+  background: url("../images/pattern-background-desktop.svg") no-repeat,
+    hsl(225, 100%, 94%);
+  background-position-y: -55px;
+  font-family: "Red Hat Display", sans-serif;
+}
+.container {
+  margin: 0 auto;
+}
+.card {
+  background-color: white;
+  width: 447px;
+  height: 696px;
+  border-radius: 19px;
+  margin: 70px auto;
+  box-shadow: 0px 22px 20px hsl(224, 23%, 55%, 0.2);
+}
+.card-img-header {
+  width: 447px;
+  border-top-left-radius: 19px;
+  border-top-right-radius: 19px;
+}
+.card-content {
+  margin: 40px 45px;
+  text-align: center;
+}
+.card-content .paragraph {
+  font-size: 16px;
+  color: hsl(224, 23%, 55%);
+  font-weight: 500;
+  line-height: 25px;
+}
+.card-content h2 {
+  font-weight: 900;
+  color: hsl(223, 47%, 23%);
+}
+.product-card {
+  height: 98px;
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 9px;
+}
+.product-card a {
+  font-size: 14px;
+  color: hsl(245, 75%, 52%);
+}
+.product-card a:hover {
+  color: #766cf1;
+  text-decoration: none;
+}
+.col1 {
+  float: left;
+  margin: 27px 0;
+}
+.col1,
+.col2 {
+  width: 30%;
+  display: inline-block;
+}
+.col2 {
+  font-size: 16px;
+  margin: 9px 0;
+  margin-left: -80px;
+}
+.col2 p {
+  line-height: 15px;
+}
+.col3 {
+  text-align: center;
+  width: 20%;
+  float: right;
+  font-weight: 900;
+  margin: 36px 20px 36px 0;
+}
+.btn-submit {
+  width: 100%;
+  height: 50px;
+  color: white;
+  background-color: hsl(245, 75%, 52%);
+  border-radius: 9px;
+  margin: 32px auto;
+  border-style: none;
+  font-weight: 700;
+  box-shadow: 0 22px 30px hsl(245, 75%, 52%, 0.3);
+}
+.btn-submit:hover {
+  background-color: #766cf1;
+  cursor: pointer;
+}
+.link {
+  color: hsl(224, 23%, 55%);
+  text-decoration: none;
+  font-weight: 700;
+}
+.link:hover {
+  color: hsl(223, 47%, 23%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+@media (max-width: 800px) {
+  .card {
+    width: 327px;
+    height: 566px;
+  }
+  .card-img-header {
+    width: 327px;
+  }
+  .card-content {
+    margin: 20px 25px;
+  }
+  .product-card {
+    height: 81px;
+  }
+  .col1 {
+    margin: 17px 0;
+  }
+  .col1 img {
+    margin-left: -25px;
+  }
+  .col1,
+  .col2 {
+    width: 40%;
+    display: inline-block;
+  }
+  .col2 {
+    margin: 2px 0;
+    margin-left: -40px;
+  }
+  .col2 p {
+    line-height: 10px;
+    font-size: 16px;
+  }
+  .col3 {
+    margin: 30px 20px 0 0;
+    width: 20%;
+  }
+  .btn-submit {
+    margin: 24px auto;
+  }
+}
