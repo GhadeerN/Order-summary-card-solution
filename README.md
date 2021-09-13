@@ -52,7 +52,7 @@ The users should be able to:
 
 - [Githube Repository]()
 - [The Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-qVRVKzh4m)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://ghadeern.github.io/Order-summary-card-solution/)
 
 ## 📄 My process
 
