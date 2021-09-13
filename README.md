@@ -36,7 +36,7 @@ The users should be able to:
 
 <div style="text-align: center;">
 
-![](./images/Desktop-design-ByMe.png)
+![](./images/Desktop-design-byMe.png)
 
 </div>
 
